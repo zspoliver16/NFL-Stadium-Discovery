@@ -4,70 +4,70 @@
         "id": 1,
         "name": "Acrisure Stadium",
         "image": "https://dustinmcgrewphoto.com/cdn/shop/files/DJI_20230910054243_0139_D-HDR-Edit.jpg?v=1694356865",
-        "capacity": 68400,
+        "opened": 2001,
         "team": "Steelers"
       },
       {
         "id": 2,
         "name": "SoFi Stadium",
-        "image": "https://dustinmcgrewphoto.com/cdn/shop/files/DJI_20230910054243_0139_D-HDR-Edit.jpg?v=1694356865",
-        "capacity": 70000,
+        "image": "https://www.accoes.com/wp-content/uploads/2022/08/IMG_5382-scaled.jpg",
+        "opened": 2020,
         "team": "Rams & Chargers"
       },
       {
         "id": 3,
         "name": "Allegiant Stadium",
         "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2017/04/all23950.jpg",
-        "capacity": 65000,
+        "opened": 2020,
         "team": "Raiders"
       },
       {
         "id": 4,
         "name": "Mercedes-Benz Stadium",
         "image": "https://img.ctykit.com/cdn/ga-atlanta/images/tr:w-900/mb-stadium-finished.jpg",
-        "capacity": 71000,
+        "opened": 2017,
         "team": "Falcons"
       },
       {
         "id": 5,
         "name": "Lucas Oil Stadium",
         "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/colts/qc1xumuiq8ehzihglej5",
-        "capacity": 70000,
+        "opened": 2008,
         "team": "Colts"
       },
       {
         "id": 6,
         "name": "AT&T Stadium",
         "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/fortworth/James-Smith-Dallas-Cowboys3_a0dc6a25-5056-a348-3a3cec8469f0a09a.jpg",
-        "capacity": 100000,
+        "opened": 2009,
         "team": "Cowboys"
       },
       {
         "id": 7,
         "name": "Lambeau Field",
         "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/packers/fg5wzihl5fmgdphrwcfh",
-        "capacity": 81411,
+        "opened": 1957,
         "team": "Packers"
       },
       {
         "id": 8,
         "name": "Ford Field",
         "image": "https://www.thorntontomasetti.com/sites/default/files/styles/paragraph_slideshow/public/ford_1.jpg?itok=-bPlHGE6",
-        "capacity": 65000,
+        "opened": 2002,
         "team": "Lions"
       },
       {
         "id": 9,
         "name": "Hard Rock Stadium",
         "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,w_1600/crm/miamifl/Dolphin_Raiders_Nov19_2023_Hard_Rock_Stadium_1440x900_571343FD-F4DC-51B7-A69DB59865AC37AF-57133915b150615_571351b9-9611-5b1b-721674ef80691e2d.jpg",
-        "capacity": 65326,
+        "opened": 1987,
         "team": "Dolphins"
       },
       {
         "id": 10,
         "name": "Arrowhead Stadium",
         "image": "https://static.clubs.nfl.com/image/private/t_landscape_tablet/chiefs/ihrv0hlfenm72fpgorts.jpg",
-        "capacity": 76416,
+        "opened": 1972,
         "team": "Chiefs"
       }
     ]

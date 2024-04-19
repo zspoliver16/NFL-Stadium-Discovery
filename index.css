@@ -1,0 +1,155 @@
+body {
+    background: 
+    url(https://m.media-amazon.com/images/I/81N0v3TZGYL.jpg);
+}
+h1 {
+    background: red;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    border: 10px dashed white;
+    width: 50%;
+    font-family: 'Oswald';
+    font-size: 50px;
+}
+p {
+    background: black;
+    color: white;
+    text-align: center;
+    border: 7px double white;
+    width: 800px;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Jersey 10'
+}
+ol#listed-stadiums {
+    font-size: 50px;
+    width: 40%;
+    float: right;
+    position: relative;
+    top: -5200px;
+}
+#steelers {
+    background: black;
+    color: yellow;
+    border: 25px dashed yellow;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#rams {
+    background: yellow;
+    color: blue;
+    border: 25px dashed blue;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#raiders {
+    background: black;
+    color: grey;
+    border: 25px dashed grey;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#falcons {
+    background: red;
+    color: black;
+    border: 25px dashed black;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#colts {
+    background: blue;
+    color: white;
+    border: 25px dashed white;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#cowboys {
+    background: grey;
+    color: blue;
+    border: 25px dashed blue;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#packers {
+    background: green;
+    color: yellow;
+    border: 25px dashed yellow;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#lions {
+    background: white;
+    color: blue;
+    border: 25px dashed blue;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#dolphins {
+    background: teal;
+    color: orange;
+    border: 25px dashed orange;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+#chiefs {
+    background: red;
+    color: white;
+    border: 25px dashed white;
+    text-align: center;
+    padding: 38px;
+    margin: 20px 20px 20px 20px;
+}
+img {
+    width: 325px;
+    height: 150px;
+    position: relative;
+    left: 1000px;
+}
+.hidden-content {
+    display: none;
+}
+.hidden-content.reveal-btn {
+    display: block;
+}
+button {
+    font-size: 60px;
+    background: green;
+    color: black;
+    position: relative;
+    left: 625px;
+    padding: 10px;
+    font-family: 'Jersey 10'
+}
+div.stadium-card {
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    border: 10px double black;
+    font-size: 20px;
+    backdrop-filter: blur(5px);
+    font-family: "Jersey 10";
+    position: relative;
+    left: 200px;
+
+}
+img#images {
+    height: 300px;
+    width: 340px;
+    border: 10px double black;
+    position: relative;
+    left: -60px;
+}
+div#stadium-image-container {
+    width: 40%;
+}
