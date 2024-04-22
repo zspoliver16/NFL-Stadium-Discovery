@@ -31,7 +31,7 @@ function displayStadiums() {
 };
 
 
-//* code that I tried to use to consolodate my code more. Reason for not using was because I was getting  a different putcome than I had wanted.*//
+//* code that I tried to use to consolodate my code more. Reason for not using was because I was getting  a different outcome than I had wanted.*//
 
 // document.addEventListener("DOMContentLoaded", function () {
 //     const teams = ['#steelers', '#rams', '#raiders', '#falcons', '#colts', '#cowboys', '#packers', '#lions', '#dolphins', '#chiefs'];
